@@ -30,6 +30,12 @@ Para rodar o projeto localmente você precisará seguir algumas instruções. <b
   git clone https://github.com/eduardoangelosimon/Busca-Heuristica-e-Busca-Gulosa.git
 ```
 
+## Autores
+
+- Eduardo Angelo Simon
+- Gabriel Pizzani Palhares
+- Larissa Ruthyle Dantier Monteiro
+
 <div align="center">
-  <p>Desenvolvido com 💙  Eduardo Angelo Simon, Gabriel Pizzani Palhares e Larissa Ruthyle Dantier Monteiro</p> <br>
+  <p>Desenvolvido com 💙  SI5N</p> <br>
 </div>
