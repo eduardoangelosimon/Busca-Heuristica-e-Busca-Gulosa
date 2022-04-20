@@ -2,7 +2,7 @@
 
 # 👷🏻 O Projeto
 
-Esse é um projeto desenvolvido durante as aulas de Inteligência Artificial na Universidade Vila Velha. O objetivo é fazer um programa que deve funcionar tanto para busca heurística quanto para a busca gulosa (quando f(N) = h(N)). Nesse caso, utilizamos cidades do estado do Espírito Santo para fazer as buscas. O destino padrão sempre será Vila Velha, a nossa cidade, mas o usuário poderá partir de qualquer outra cidade listada no programa.
+Esse é um projeto desenvolvido durante as aulas de Inteligência Artificial na Universidade Vila Velha. O objetivo é fazer um programa que deve funcionar tanto para busca heurística quanto para a busca gulosa (quando f(N) = h(N)). Nesse caso, utilizamos cidades do estado do Espírito Santo para fazer as buscas. O local de partida padrão sempre será Vila Velha, a nossa cidade, mas o usuário poderá partir de qualquer outra cidade listada no programa.
 
 
 # 🤳🏻 Funcionalidades gerais
