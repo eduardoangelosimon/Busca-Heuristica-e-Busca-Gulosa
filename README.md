@@ -27,7 +27,7 @@ Para rodar o projeto localmente você precisará seguir algumas instruções. <b
 ## Clone o repositório
 
 ```
-  git clone https://github.com/eduardoangelosimon/To-Do-CountDown.git
+  git clone https://github.com/eduardoangelosimon/Busca-Heuristica-e-Busca-Gulosa.git
 ```
 
 <div align="center">
