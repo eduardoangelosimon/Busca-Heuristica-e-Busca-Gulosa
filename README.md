@@ -7,9 +7,7 @@ Esse é um projeto desenvolvido durante as aulas de Inteligência Artificial na 
 
 # 🤳🏻 Funcionalidades gerais
 
-- Escolher tipo de busca
-- Escolher cidade de partida
-- Encerrar o programa
+- Escolher o tipo de busca
 
 # 🚀 Tecnologias
 
